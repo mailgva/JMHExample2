@@ -4,4 +4,6 @@ $ mvn package
 $ java -jar target\benchmarks.jar BenchmarkLoop
 
 - Second way - JMH Runner  
+$ mvn package  
+$ java -jar target\benchmarks.jar BenchmarkLoop2
  
